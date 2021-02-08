@@ -1,0 +1,17 @@
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\bin\Debug\Sheduler.exe.config
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\bin\Debug\Sheduler.exe
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\bin\Debug\Sheduler.pdb
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.csprojAssemblyReference.cache
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Login.g.cs
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\MainWindow.g.cs
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\App.g.cs
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler_MarkupCompile.cache
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler_MarkupCompile.lref
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Login.baml
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\MainWindow.baml
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.g.resources
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.Properties.Resources.resources
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.csproj.GenerateResource.cache
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.csproj.CoreCompileInputs.cache
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.exe
+C:\Users\Vanavan\source\repos\Sheduler\Sheduler\obj\Debug\Sheduler.pdb
